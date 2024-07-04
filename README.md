@@ -1,0 +1,2 @@
+# Studying Array
+ practicing array 
